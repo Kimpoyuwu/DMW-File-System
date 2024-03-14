@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Title Page</h1>
-    <p>Paragraph</p>
-    <h1>This is thekldjw</h1>
+
 </body>
 </html>
